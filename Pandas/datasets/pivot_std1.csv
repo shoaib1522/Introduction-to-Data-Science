@@ -1,6 +1,3 @@
-﻿gender,sport,age,height,weight
-male,cricket,22,72,200
-female,cricket,21,72,130
-female,basketball,23,73,150
-male,basketball,21,75,175
-female,cricket,20,68,170
+version https://git-lfs.github.com/spec/v1
+oid sha256:789b3c535eb2ff6fe4ebb4a54939e93de3a7da6593d1fb2c486c9afdc06e9884
+size 160

@@ -1,21 +1,3 @@
-﻿day,temperature,humidity
-Monday,30,70
-Tuesday,34,65
-Wednesday,28,68
-Thursday,35,72
-Friday,32,69
-Monday,37,71
-Tuesday,26,70
-Monday,33,66
-Tuesday,28,76
-Wednesday,29,54
-Monday,45,77
-Tuesday,40,54
-Wednesday,34,67
-Thursday,32,79
-Friday,31,80
-Thursday,26,78
-Friday,28,54
-Monday,21,52
-Tuesday,22,64
-Wednesday,21,61
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ce2e46fde55b407fe862fa70dc579ee5c41d7334e977ff5bc1128f966919b41
+size 311

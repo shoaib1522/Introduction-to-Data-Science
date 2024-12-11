@@ -1,7 +1,3 @@
-name, age, address, cell, bg
-Rauf, 52, Lahore, 321-123, B+
-Arif,51, Karachi,320-431,A-
-Maaz,26, Lahore,321-478,B+
-Hadeed,22, Islamabad, 324-446,O-
-Mujahid,18, Kakul,321-967,A-
-Mohid,17,Karachi,320-678,B+
+version https://git-lfs.github.com/spec/v1
+oid sha256:17803b0683e924abff61c451206deb217b7066a953fa703e853eeb60c607d1f6
+size 203

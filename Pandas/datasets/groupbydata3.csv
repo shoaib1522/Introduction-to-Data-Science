@@ -1,31 +1,3 @@
-date,country,city,temperature
-01/01/2022,pakistan,lahore,8
-02/01/2022,pakistan,lahore,10
-03/01/2022,pakistan,lahore,5
-04/01/2022,pakistan,lahore,6
-05/01/2022,pakistan,lahore,12
-01/01/2022,pakistan,karachi,18
-02/01/2022,pakistan,karachi,10
-03/01/2022,pakistan,karachi,12
-04/01/2022,pakistan,karachi,15
-05/01/2022,pakistan,karachi,16
-01/01/2022,pakistan,muree,-5
-02/01/2022,pakistan,muree,-3
-03/01/2022,pakistan,muree,-4
-04/01/2022,pakistan,muree,-1
-05/01/2022,pakistan,muree,-7
-01/01/2022,afghanistan,ghazni,12
-02/01/2022,afghanistan,ghazni,14
-03/01/2022,afghanistan,ghazni,8
-04/01/2022,afghanistan,ghazni,10
-05/01/2022,afghanistan,ghazni,15
-01/01/2022,afghanistan,jalalabad,22
-02/01/2022,afghanistan,jalalabad,14
-03/01/2022,afghanistan,jalalabad,10
-04/01/2022,afghanistan,jalalabad,18
-05/01/2022,afghanistan,jalalabad,20
-01/01/2022,afghanistan,kabul,8
-02/01/2022,afghanistan,kabul,6
-03/01/2022,afghanistan,kabul,9
-04/01/2022,afghanistan,kabul,11
-05/01/2022,afghanistan,kabul,5
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a5e2d9e315d20834524da924968b96d847dffc9bc5e8ea17528b4233a76614
+size 976

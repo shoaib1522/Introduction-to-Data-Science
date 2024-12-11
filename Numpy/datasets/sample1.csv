@@ -1,15 +1,3 @@
-city,gender,age
-Lahore,male,35
-Lahore,male,40
-Lahore,female,70
-Lahore,female,25
-Lahore,female,33
-Karachi,male,66
-Karachi,male,29
-Karachi,female,24
-Islamabad,female,20
-Islamabad,female,10
-Islamabad,male,55
-Islamabad,male,15
-Multan,male,24
-Multan,female,65
+version https://git-lfs.github.com/spec/v1
+oid sha256:84ce35fd0c2f24ca6427ea8a7e8fa88156c2e0873b5a3321573421e134be97ea
+size 255

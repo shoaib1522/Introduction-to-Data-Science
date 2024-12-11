@@ -1,16 +1,3 @@
-date,city,temperature,humidity
-01/01/2022,lahore,8,60
-02/01/2022,lahore,10,58
-03/01/2022,lahore,5,51
-04/01/2022,lahore,6,49
-05/01/2022,lahore,12,54
-01/01/2022,karachi,18,74
-02/01/2022,karachi,10,71
-03/01/2022,karachi,12,78
-04/01/2022,karachi,15,76
-05/01/2022,karachi,16,70
-01/01/2022,murree,-5,61
-02/01/2022,murree,-3,68
-03/01/2022,murree,-4,69
-04/01/2022,murree,-1,63
-05/01/2022,murree,-7,72
+version https://git-lfs.github.com/spec/v1
+oid sha256:cff911745140b8bb7c1d6ec12aa8f9cf9798bcf43377c4947a0976ac0601fb6d
+size 392
